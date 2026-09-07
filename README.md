@@ -143,4 +143,4 @@ while(player):
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 OUTPUT:
-<img width="959" height="599" alt="Screenshot 2026-09-02 123541" src="https://github.com/user-attachments/assets/39e47a40-fbfd-4615-8b59-ebff437356f4" />
+<img width="613" height="488" alt="644834937-39e47a40-fbfd-4615-8b59-ebff437356f4" src="https://github.com/user-attachments/assets/cfedcceb-a627-42cf-8f57-6b06fb77065c" />
